@@ -1,0 +1,41 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of hydrolysis calculations
+"Calculate the enthalpy change for the hydrolysis of 5.5 grams of sucrose (C12H22O11) using the standard enthalpy of formation values of the products and reactants. Assume the reaction takes place at constant pressure and temperature of 25°C."
+To calculate the enthalpy change for the hydrolysis of sucrose, we first need to write the balanced chemical equation for the reaction:
+
+C12H22O11 (s) + H2O (l) → C6H12O6 (s) + C6H12O6 (s)
+
+Sucrose + Water → Glucose + Fructose
+
+Next, we need the standard enthalpy of formation values for each compound involved in the reaction:
+
+ΔHf° (C12H22O11) = -2221 kJ/mol
+ΔHf° (H2O) = -285.8 kJ/mol
+ΔHf° (C6H12O6) = -1273.3 kJ/mol (both glucose and fructose have the same value)
+
+Now, we can use Hess's Law to calculate the enthalpy change for the reaction:
+
+ΔH° = Σ [ΔHf° (products)] - Σ [ΔHf° (reactants)]
+
+ΔH° = [(2 × -1273.3) - (-2221 + (-285.8))]
+
+ΔH° = -2546.6 + 2506.8
+
+ΔH° = -39.8 kJ/mol
+
+Now that we have the enthalpy change per mole of sucrose, we need to determine the number of moles of sucrose in 5.5 grams:
+
+Molar mass of sucrose (C12H22O11) = 12(12.01) + 22(1.01) + 11(16.00) = 342.3 g/mol
+
+moles of sucrose = 5.5 g / 342.3 g/mol = 0.0161 mol
+
+Finally, we can calculate the enthalpy change for the hydrolysis of 5.5 grams of sucrose:
+
+ΔH = ΔH° × moles of sucrose
+
+ΔH = -39.8 kJ/mol × 0.0161 mol
+
+ΔH = -0.641 kJ
+
+The enthalpy change for the hydrolysis of 5.5 grams of sucrose is approximately -0.641 kJ.

@@ -1,0 +1,15 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of desorption calculations
+A researcher is working on the desorption of a specific gas from a metal surface. The enthalpy of desorption for this process is -23.4 kJ/mol. If the researcher desorbs 0.75 moles of the gas, how much heat is released (or absorbed)?
+To calculate the heat released or absorbed during the desorption process, we can use the following formula:
+
+q = n * ΔH
+
+where q is the heat released or absorbed, n is the number of moles, and ΔH is the enthalpy of desorption.
+
+In this case, n = 0.75 moles and ΔH = -23.4 kJ/mol.
+
+q = 0.75 moles * (-23.4 kJ/mol) = -17.55 kJ
+
+Since the value of q is negative, it means that 17.55 kJ of heat is released during the desorption process.

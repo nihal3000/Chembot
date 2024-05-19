@@ -1,0 +1,20 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of dissolution calculations
+What is the enthalpy change, in kilojoules per mole, when 6.0 grams of potassium chloride (KCl) is dissolved in 200.0 mL of water at 25°C? The molar heat of dissolution of KCl is -57.3 kJ/mol.
+To calculate the enthalpy change, we first need to determine the number of moles of KCl being dissolved. 
+
+The molar mass of KCl is:
+K = 39.1 g/mol
+Cl = 35.5 g/mol
+KCl = 39.1 + 35.5 = 74.6 g/mol
+
+Now we can find the number of moles of KCl:
+moles = mass / molar mass
+moles = 6.0 g / 74.6 g/mol = 0.0804 mol
+
+Next, we can use the molar heat of dissolution to find the enthalpy change:
+enthalpy change = moles × molar heat of dissolution
+enthalpy change = 0.0804 mol × (-57.3 kJ/mol) = -4.61 kJ
+
+The enthalpy change when 6.0 grams of potassium chloride is dissolved in 200.0 mL of water at 25°C is -4.61 kJ.

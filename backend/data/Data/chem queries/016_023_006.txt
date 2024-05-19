@@ -1,0 +1,22 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of hydrolysis calculations
+Calculate the enthalpy change for the hydrolysis of 0.1 moles of sucrose in water given the following information: 
+
+- The enthalpy change of the reaction is -564 kJ/mol.
+- The molar mass of sucrose is 342.3 g/mol.
+- The reaction is exothermic.
+To calculate the enthalpy change for the hydrolysis of 0.1 moles of sucrose, we can use the given enthalpy change of the reaction and the number of moles of sucrose.
+
+Enthalpy change (ΔH) = moles of sucrose × enthalpy change per mole
+
+Given:
+Moles of sucrose = 0.1 moles
+Enthalpy change per mole = -564 kJ/mol (exothermic, so negative value)
+
+Now, we can calculate the enthalpy change for the hydrolysis of 0.1 moles of sucrose:
+
+ΔH = 0.1 moles × (-564 kJ/mol)
+ΔH = -56.4 kJ
+
+The enthalpy change for the hydrolysis of 0.1 moles of sucrose in water is -56.4 kJ.

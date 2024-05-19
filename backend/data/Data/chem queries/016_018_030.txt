@@ -1,0 +1,21 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+Calculate the enthalpy change of ionization for hydrogen gas when one mole of H2 gas is ionized to form two moles of H+ ions in the gas phase, given that the enthalpy change of ionization for H(g) is +1312 kJ/mol.
+To calculate the enthalpy change of ionization for hydrogen gas when one mole of H2 gas is ionized to form two moles of H+ ions in the gas phase, we need to consider the following reaction:
+
+H2(g) → 2H(g)
+
+First, we need to break the H2 molecule into two H atoms. The bond dissociation energy for H2 is approximately 436 kJ/mol. So, the enthalpy change for this step is:
+
+ΔH1 = +436 kJ/mol
+
+Next, we need to ionize each H atom to form H+ ions. The enthalpy change of ionization for H(g) is given as +1312 kJ/mol. Since we have two H atoms, the enthalpy change for this step is:
+
+ΔH2 = 2 × (+1312 kJ/mol) = +2624 kJ/mol
+
+Now, we can calculate the total enthalpy change for the ionization of one mole of H2 gas:
+
+ΔH_total = ΔH1 + ΔH2 = +436 kJ/mol + (+2624 kJ/mol) = +3060 kJ/mol
+
+Therefore, the enthalpy change of ionization for hydrogen gas when one mole of H2 gas is ionized to form two moles of H+ ions in the gas phase is +3060 kJ/mol.

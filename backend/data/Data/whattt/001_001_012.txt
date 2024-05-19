@@ -1,0 +1,7 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+What is the IUPAC name of the following organic compound?
+
+CH3CH2CH2COOH
+The IUPAC name of the organic compound CH3CH2CH2COOH is butanoic acid.

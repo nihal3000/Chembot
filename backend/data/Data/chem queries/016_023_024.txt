@@ -1,0 +1,40 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of hydrolysis calculations
+Calculate the enthalpy change for the hydrolysis of 10 grams of sodium acetate (NaOH) at 25°C, given the following information:
+- The specific heat capacity of the solution is 4.18 J/(g·°C)
+- The initial temperature of the solution is 25°C
+- The final temperature of the solution after hydrolysis is 30°C
+- The heat evolved by the reaction is 677 J.
+First, we need to correct the mistake in the problem statement. Sodium acetate is not NaOH; it is CH3COONa. Now, let's proceed with the calculation.
+
+To calculate the enthalpy change, we need to find the heat absorbed by the solution and then divide it by the number of moles of sodium acetate.
+
+Step 1: Calculate the heat absorbed by the solution
+q = mcΔT
+where q is the heat absorbed, m is the mass of the solution, c is the specific heat capacity, and ΔT is the change in temperature.
+
+Assuming that the mass of the solution is approximately equal to the mass of sodium acetate (since the mass of water is not given), we have:
+m = 10 g
+c = 4.18 J/(g·°C)
+ΔT = 30°C - 25°C = 5°C
+
+q = (10 g)(4.18 J/(g·°C))(5°C) = 209 J
+
+Step 2: Calculate the total heat involved in the reaction
+Since the heat evolved by the reaction is 677 J, the total heat involved in the reaction is the sum of the heat absorbed by the solution and the heat evolved by the reaction.
+
+Total heat = Heat absorbed by the solution + Heat evolved by the reaction
+Total heat = 209 J + 677 J = 886 J
+
+Step 3: Calculate the number of moles of sodium acetate
+The molar mass of sodium acetate (CH3COONa) is approximately 82 g/mol.
+
+Moles of sodium acetate = mass / molar mass
+Moles of sodium acetate = 10 g / 82 g/mol = 0.122 mol
+
+Step 4: Calculate the enthalpy change
+Enthalpy change = Total heat / Moles of sodium acetate
+Enthalpy change = 886 J / 0.122 mol = 7260 J/mol
+
+The enthalpy change for the hydrolysis of 10 grams of sodium acetate at 25°C is 7260 J/mol.

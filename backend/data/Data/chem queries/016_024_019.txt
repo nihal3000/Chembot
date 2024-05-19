@@ -1,0 +1,27 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of precipitation calculations
+What is the enthalpy change of precipitation when 50.0 mL of 0.100 M silver nitrate solution is mixed with excess sodium chloride solution at 25°C and allowed to settle? The final mass of the solution is 125.0 g. (Assume that the specific heat capacity of the solution is 4.18 J/gK and that the density of the solution is 1.00 g/mL.)
+To calculate the enthalpy change of precipitation, we first need to determine the amount of precipitate formed and then use the enthalpy of formation for the precipitate to find the enthalpy change.
+
+1. Determine the moles of silver nitrate (AgNO3) in the solution:
+moles of AgNO3 = volume (L) × molarity (M)
+moles of AgNO3 = 0.050 L × 0.100 M = 0.0050 mol
+
+2. Write the balanced chemical equation for the reaction:
+AgNO3(aq) + NaCl(aq) → AgCl(s) + NaNO3(aq)
+
+From the balanced equation, we can see that 1 mole of AgNO3 reacts with 1 mole of NaCl to produce 1 mole of AgCl precipitate.
+
+3. Calculate the moles of AgCl formed:
+Since there is an excess of NaCl, all of the AgNO3 will react, and the moles of AgCl formed will be equal to the moles of AgNO3.
+moles of AgCl = 0.0050 mol
+
+4. Find the enthalpy of formation for AgCl:
+The standard enthalpy of formation for AgCl (ΔHf°) is -127.1 kJ/mol.
+
+5. Calculate the enthalpy change for the precipitation reaction:
+ΔH = moles of AgCl × ΔHf°(AgCl)
+ΔH = 0.0050 mol × (-127.1 kJ/mol) = -0.6355 kJ
+
+The enthalpy change of precipitation when 50.0 mL of 0.100 M silver nitrate solution is mixed with excess sodium chloride solution at 25°C and allowed to settle is -0.6355 kJ.

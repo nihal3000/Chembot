@@ -1,0 +1,22 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+Calculate the enthalpy change of ionization for magnesium given the following data: 
+
+Mg(g) → Mg+(g) + e- 
+ΔH1 = +738 kJ/mol 
+
+Mg+(g) → Mg2+(g) + e- 
+ΔH2 = +1451 kJ/mol
+To calculate the enthalpy change of ionization for magnesium, we need to consider both ionization steps:
+
+1. Mg(g) → Mg+(g) + e- (ΔH1 = +738 kJ/mol)
+2. Mg+(g) → Mg2+(g) + e- (ΔH2 = +1451 kJ/mol)
+
+The enthalpy change of ionization for magnesium can be calculated by adding the enthalpy changes for both steps:
+
+ΔH_total = ΔH1 + ΔH2
+ΔH_total = (+738 kJ/mol) + (+1451 kJ/mol)
+ΔH_total = +2189 kJ/mol
+
+The enthalpy change of ionization for magnesium is +2189 kJ/mol.

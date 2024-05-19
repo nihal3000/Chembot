@@ -1,0 +1,27 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of polymerization calculations
+Calculate the enthalpy change of polymerization for the formation of polystyrene from its monomer, styrene, given the following data:
+
+- ΔH°f (Styrene) = -25.68 kJ/mol
+- Bond enthalpies: C-C = 347 kJ/mol; C=C = 611 kJ/mol; C-H = 413 kJ/mol
+To calculate the enthalpy change of polymerization for the formation of polystyrene from its monomer, styrene, we need to consider the bonds broken and bonds formed during the process. 
+
+In the polymerization process, the double bond (C=C) in styrene is broken and a single bond (C-C) is formed between the styrene monomers. 
+
+1. Bonds broken: One C=C bond in each styrene monomer
+2. Bonds formed: One C-C bond between each styrene monomer
+
+Now, we can calculate the enthalpy change for the polymerization process using the given bond enthalpies:
+
+ΔH_polymerization = (Bonds formed - Bonds broken)
+
+ΔH_polymerization = [(1 × C-C) - (1 × C=C)]
+
+Using the given bond enthalpies:
+
+ΔH_polymerization = [(1 × 347 kJ/mol) - (1 × 611 kJ/mol)]
+
+ΔH_polymerization = -264 kJ/mol
+
+So, the enthalpy change of polymerization for the formation of polystyrene from its monomer, styrene, is -264 kJ/mol.

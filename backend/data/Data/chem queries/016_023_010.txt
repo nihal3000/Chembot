@@ -1,0 +1,15 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of hydrolysis calculations
+Calculate the enthalpy change for the hydrolysis of 2 moles of sucrose (C12H22O11) if it releases 5184 kJ/mol of energy.
+To calculate the enthalpy change for the hydrolysis of 2 moles of sucrose, we can use the following formula:
+
+ΔH = moles × energy released per mole
+
+Given that the hydrolysis of 1 mole of sucrose releases 5184 kJ/mol of energy, we can plug in the values:
+
+ΔH = 2 moles × 5184 kJ/mol
+
+ΔH = 10368 kJ
+
+Therefore, the enthalpy change for the hydrolysis of 2 moles of sucrose is 10368 kJ.

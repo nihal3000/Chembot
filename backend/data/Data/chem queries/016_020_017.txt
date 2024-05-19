@@ -1,0 +1,15 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of desorption calculations
+Calculate the amount of energy required to completely desorb 2 moles of hydrogen molecules from a metal surface if the enthalpy of desorption for each H2 molecule is 436 kJ/mol.
+To calculate the amount of energy required to completely desorb 2 moles of hydrogen molecules from a metal surface, we can use the following equation:
+
+Energy = moles × enthalpy of desorption
+
+Given that there are 2 moles of hydrogen molecules and the enthalpy of desorption for each H2 molecule is 436 kJ/mol, we can plug these values into the equation:
+
+Energy = 2 moles × 436 kJ/mol
+
+Energy = 872 kJ
+
+Therefore, 872 kJ of energy is required to completely desorb 2 moles of hydrogen molecules from a metal surface.

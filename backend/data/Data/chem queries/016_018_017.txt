@@ -1,0 +1,29 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+Calculate the enthalpy of ionization of hydrogen gas (H₂) given that it requires 1312 kJ/mol to ionize a single hydrogen atom (H) in the gas phase.
+To calculate the enthalpy of ionization of hydrogen gas (H₂), we need to consider the process of ionization. In this case, one mole of hydrogen gas (H₂) dissociates into two moles of hydrogen atoms (H) and then ionizes to form two moles of hydrogen ions (H⁺) and two moles of electrons (e⁻).
+
+The overall process can be represented as:
+
+H₂(g) → 2H(g) → 2H⁺(g) + 2e⁻
+
+First, we need to consider the bond dissociation energy of H₂, which is the energy required to break one mole of H-H bonds in the gas phase. The bond dissociation energy of H₂ is approximately 436 kJ/mol.
+
+H₂(g) → 2H(g) ; ΔH = +436 kJ/mol
+
+Next, we need to consider the ionization energy of hydrogen atoms. The problem states that it requires 1312 kJ/mol to ionize a single hydrogen atom (H) in the gas phase.
+
+H(g) → H⁺(g) + e⁻ ; ΔH = +1312 kJ/mol
+
+Since there are two moles of hydrogen atoms (H) in one mole of hydrogen gas (H₂), we need to multiply the ionization energy by 2.
+
+2H(g) → 2H⁺(g) + 2e⁻ ; ΔH = 2 × 1312 kJ/mol = +2624 kJ/mol
+
+Now, we can calculate the overall enthalpy of ionization of hydrogen gas (H₂) by adding the enthalpies of the two processes:
+
+ΔH_total = ΔH_dissociation + ΔH_ionization
+ΔH_total = 436 kJ/mol + 2624 kJ/mol
+ΔH_total = 3060 kJ/mol
+
+Therefore, the enthalpy of ionization of hydrogen gas (H₂) is 3060 kJ/mol.

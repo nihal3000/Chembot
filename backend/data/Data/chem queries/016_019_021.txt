@@ -1,0 +1,34 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of adsorption calculations
+Calculate the enthalpy of adsorption when 2.0 grams of activated charcoal adsorbs 25 mL of methane gas at a constant temperature of 298 K, given that the pressure is 1 atm. Assume ideal gas behavior for methane.
+To calculate the enthalpy of adsorption, we first need to find the moles of methane gas adsorbed by the activated charcoal. We can use the ideal gas law for this purpose:
+
+PV = nRT
+
+Where P is the pressure, V is the volume, n is the number of moles, R is the ideal gas constant, and T is the temperature.
+
+Given:
+P = 1 atm
+V = 25 mL = 0.025 L (converting to liters)
+R = 0.0821 L atm / (mol K) (ideal gas constant)
+T = 298 K
+
+We can rearrange the ideal gas law to solve for n:
+
+n = PV / RT
+
+Substituting the given values:
+
+n = (1 atm * 0.025 L) / (0.0821 L atm / (mol K) * 298 K)
+n ≈ 0.00102 mol
+
+Now that we have the moles of methane gas adsorbed, we can calculate the enthalpy of adsorption (ΔH_ads) using the following formula:
+
+ΔH_ads = -q_ads / n
+
+Where q_ads is the heat of adsorption and n is the moles of methane gas adsorbed.
+
+We are given the mass of activated charcoal (2.0 grams) but not the heat of adsorption (q_ads). Unfortunately, without the heat of adsorption value, we cannot calculate the enthalpy of adsorption. The heat of adsorption is an experimentally determined value and depends on the specific activated charcoal and gas system being studied.
+
+If the heat of adsorption value was provided, you could substitute it into the formula above and calculate the enthalpy of adsorption.

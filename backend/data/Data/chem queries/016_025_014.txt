@@ -1,0 +1,26 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of dissolution calculations
+What is the enthalpy change for the dissolution of 5.0 g of sucrose (C12H22O11) in 100 mL of water if the final temperature of the solution is 27°C and the initial temperature of the water was 25°C? The molar mass of sucrose is 342.3 g/mol and the density of water is 1.00 g/mL. Assume that the specific heat capacity of the solution is the same as that of water (4.18 J/g°C).
+To calculate the enthalpy change for the dissolution of sucrose, we need to first determine the amount of heat absorbed or released by the solution, and then convert that to the enthalpy change per mole of sucrose.
+
+1. Calculate the mass of water:
+The density of water is 1.00 g/mL, so the mass of 100 mL of water is:
+mass_water = 100 mL * 1.00 g/mL = 100 g
+
+2. Calculate the temperature change of the solution:
+ΔT = T_final - T_initial = 27°C - 25°C = 2°C
+
+3. Calculate the heat absorbed or released by the solution:
+q_solution = mass_water * specific_heat_capacity * ΔT
+q_solution = 100 g * 4.18 J/g°C * 2°C = 836 J
+
+4. Calculate the moles of sucrose:
+moles_sucrose = mass_sucrose / molar_mass_sucrose
+moles_sucrose = 5.0 g / 342.3 g/mol = 0.0146 mol
+
+5. Calculate the enthalpy change per mole of sucrose:
+ΔH = q_solution / moles_sucrose
+ΔH = 836 J / 0.0146 mol = 57241 J/mol
+
+The enthalpy change for the dissolution of 5.0 g of sucrose in 100 mL of water is 57,241 J/mol.

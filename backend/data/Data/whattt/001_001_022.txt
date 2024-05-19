@@ -1,0 +1,5 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+What is the systematic name of the following organic compound: CH3CH2CH(CH3)CH2CH3?
+The systematic name of the given organic compound CH3CH2CH(CH3)CH2CH3 is 3-methylpentane.

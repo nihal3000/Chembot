@@ -1,0 +1,20 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+What is the enthalpy change of the ionization reaction of potassium hydroxide (KOH) if 25.0 g of KOH are completely dissolved in water, giving 1.00 L of solution with a concentration of 0.500 M KOH? The enthalpy of ionization for KOH is -431 kJ/mol.
+To find the enthalpy change of the ionization reaction of potassium hydroxide (KOH), we first need to determine the number of moles of KOH in the 25.0 g sample. The molar mass of KOH is:
+
+K = 39.10 g/mol
+O = 16.00 g/mol
+H = 1.01 g/mol
+KOH = 39.10 + 16.00 + 1.01 = 56.11 g/mol
+
+Now, we can find the number of moles of KOH in the 25.0 g sample:
+
+moles of KOH = (25.0 g) / (56.11 g/mol) = 0.446 mol
+
+Since the enthalpy of ionization for KOH is -431 kJ/mol, we can now calculate the enthalpy change for the ionization reaction:
+
+enthalpy change = (0.446 mol) * (-431 kJ/mol) = -192.3 kJ
+
+The enthalpy change of the ionization reaction of potassium hydroxide (KOH) when 25.0 g of KOH are completely dissolved in water, giving 1.00 L of solution with a concentration of 0.500 M KOH, is -192.3 kJ.

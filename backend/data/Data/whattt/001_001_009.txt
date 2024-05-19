@@ -1,0 +1,5 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+Name the following organic compound: C6H5CH2CH2CH(CH3)2.
+The given organic compound is 4-ethyl-2-methylhexane.

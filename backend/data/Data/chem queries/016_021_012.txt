@@ -1,0 +1,36 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of polymerization calculations
+What is the enthalpy change when 100 g of ethylene is polymerized to form polyethylene? The enthalpy of combustion for ethylene is -1411 kJ/mol and the density of polyethylene is 0.92 g/cm³. Assume all the ethylene is converted into polyethylene during the reaction.
+To determine the enthalpy change when 100 g of ethylene is polymerized to form polyethylene, we need to follow these steps:
+
+1. Calculate the number of moles of ethylene.
+2. Determine the enthalpy change per mole of ethylene.
+3. Calculate the total enthalpy change for the reaction.
+
+Step 1: Calculate the number of moles of ethylene
+Ethylene has a molecular formula of C2H4, so its molar mass is:
+(2 * 12.01 g/mol for C) + (4 * 1.01 g/mol for H) = 28.06 g/mol
+
+Now, we can calculate the number of moles of ethylene in 100 g:
+moles of ethylene = mass / molar mass = 100 g / 28.06 g/mol = 3.564 moles
+
+Step 2: Determine the enthalpy change per mole of ethylene
+The enthalpy of combustion for ethylene is given as -1411 kJ/mol. However, this value is for the combustion reaction, not for the polymerization reaction. The enthalpy change for the polymerization reaction can be estimated using the enthalpy of combustion values for ethylene and polyethylene.
+
+The enthalpy of combustion for polyethylene is approximately -46 kJ/g. To convert this to kJ/mol, we need to multiply by the molar mass of ethylene:
+
+Enthalpy of combustion for polyethylene = -46 kJ/g * 28.06 g/mol = -1290 kJ/mol
+
+Now, we can estimate the enthalpy change for the polymerization reaction:
+
+ΔH_polymerization = ΔH_combustion(polyethylene) - ΔH_combustion(ethylene)
+ΔH_polymerization = -1290 kJ/mol - (-1411 kJ/mol) = 121 kJ/mol
+
+Step 3: Calculate the total enthalpy change for the reaction
+Now that we have the enthalpy change per mole of ethylene, we can calculate the total enthalpy change for the reaction:
+
+Total enthalpy change = ΔH_polymerization * moles of ethylene
+Total enthalpy change = 121 kJ/mol * 3.564 moles = 431.24 kJ
+
+Therefore, the enthalpy change when 100 g of ethylene is polymerized to form polyethylene is approximately 431.24 kJ.

@@ -1,0 +1,17 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of isomerization calculations
+Calculate the enthalpy of isomerization for butene to isobutene given the following bond dissociation energies (in kJ/mol): C-C = 345, C=C = 614, C-H = 413.
+To calculate the enthalpy of isomerization for butene to isobutene, we need to determine the energy required to break the bonds in butene and the energy released when new bonds are formed in isobutene.
+
+Butene (C4H8) has the following bonds:
+1 C=C bond
+3 C-C bonds
+8 C-H bonds
+
+Isobutene (C4H8) has the following bonds:
+1 C=C bond
+3 C-C bonds
+8 C-H bonds
+
+Since the number and types of bonds in both butene and isobutene are the same, the enthalpy of isomerization will be zero. This is because the energy required to break the bonds in butene will be equal to the energy released when new bonds are formed in isobutene.

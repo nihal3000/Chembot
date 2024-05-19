@@ -1,0 +1,5 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+What is the systematic name of the organic compound with the molecular formula C6H12O2?
+The molecular formula C6H12O2 can represent more than one compound, as it only provides the number of atoms for each element present in the compound. However, one possible systematic name for a compound with this molecular formula is hexanoic acid (also known as caproic acid). Hexanoic acid is a carboxylic acid with a six-carbon chain and the following structure: CH3(CH2)4COOH.

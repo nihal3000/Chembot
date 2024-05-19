@@ -1,0 +1,30 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of dissolution calculations
+What is the enthalpy change of dissolving 10.0 g of NaCl in 500 mL of water at 25°C, assuming the solution has a specific heat capacity of 4.18 J/g°C?
+To calculate the enthalpy change of dissolving NaCl in water, we need to know the heat of solution for NaCl. The heat of solution (ΔHsol) is the amount of heat absorbed or released when a solute dissolves in a solvent. For NaCl, the heat of solution is approximately +3.88 kJ/mol.
+
+First, we need to convert the mass of NaCl to moles:
+10.0 g NaCl * (1 mol NaCl / 58.44 g NaCl) = 0.171 mol NaCl
+
+Now, we can calculate the enthalpy change for dissolving 0.171 mol of NaCl:
+ΔH = ΔHsol * moles of NaCl
+ΔH = (+3.88 kJ/mol) * 0.171 mol = +0.664 kJ
+
+Since the enthalpy change is positive, it means that the dissolving process is endothermic, and heat is absorbed from the surroundings. However, this value is for the dissolving process only and does not account for the heat capacity of the solution.
+
+To determine the temperature change of the solution, we can use the formula:
+q = mcΔT
+
+Where q is the heat absorbed or released, m is the mass of the solution, c is the specific heat capacity, and ΔT is the temperature change. We know the specific heat capacity (c) is 4.18 J/g°C, and we can assume the mass of the solution is approximately the mass of the water (500 g) since the mass of NaCl is relatively small.
+
+Rearranging the formula to solve for ΔT:
+ΔT = q / (mc)
+
+We need to convert the enthalpy change from kJ to J:
+ΔH = 0.664 kJ * (1000 J / 1 kJ) = 664 J
+
+Now we can calculate the temperature change:
+ΔT = 664 J / (500 g * 4.18 J/g°C) = 0.317°C
+
+Since the temperature change is positive, the temperature of the solution will increase by 0.317°C after dissolving 10.0 g of NaCl in 500 mL of water at 25°C.

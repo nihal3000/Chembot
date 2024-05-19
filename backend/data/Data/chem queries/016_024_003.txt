@@ -1,0 +1,26 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of precipitation calculations
+What is the enthalpy of precipitation for the reaction between silver nitrate and sodium chloride, given that 50.0 mL of 0.200 M silver nitrate solution is mixed with 50.0 mL of 0.200 M sodium chloride solution and a precipitate of silver chloride is formed? The temperature of the mixed solution is recorded to be 25°C and the heat evolved during the reaction is -15.0 kJ/mol.
+To calculate the enthalpy of precipitation, we first need to determine the moles of silver chloride (AgCl) formed in the reaction. The balanced chemical equation for the reaction is:
+
+AgNO3(aq) + NaCl(aq) → AgCl(s) + NaNO3(aq)
+
+Since both solutions have the same concentration (0.200 M) and volume (50.0 mL), they will react in a 1:1 ratio, and the limiting reactant will be completely consumed.
+
+First, we need to convert the volume of the solutions to liters:
+
+50.0 mL × (1 L / 1000 mL) = 0.050 L
+
+Now, we can calculate the moles of the reactants:
+
+moles of AgNO3 = (0.200 mol/L) × 0.050 L = 0.010 mol
+moles of NaCl = (0.200 mol/L) × 0.050 L = 0.010 mol
+
+Since the reaction occurs in a 1:1 ratio, 0.010 mol of AgCl will be formed.
+
+Now, we can calculate the enthalpy of precipitation per mole of AgCl:
+
+ΔH = -15.0 kJ/mol (given)
+
+Since the heat evolved during the reaction is -15.0 kJ/mol, the enthalpy of precipitation for the reaction between silver nitrate and sodium chloride is -15.0 kJ/mol.

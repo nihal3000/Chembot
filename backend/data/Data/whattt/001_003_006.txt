@@ -1,0 +1,17 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Stereochemistry and chirality
+Identify the number of stereoisomers possible for the following compound: 3-chloro-2-hydroxybutanoic acid.
+To determine the number of stereoisomers for 3-chloro-2-hydroxybutanoic acid, we need to identify the chiral centers in the molecule. Chiral centers are carbon atoms that have four different groups attached to them.
+
+The structure of 3-chloro-2-hydroxybutanoic acid is as follows:
+
+CH3 - CH(OH) - CH(Cl) - COOH
+
+There are two chiral centers in this molecule: the carbon with the hydroxyl group (C2) and the carbon with the chlorine atom (C3).
+
+For each chiral center, there are two possible configurations (R and S). Since there are two chiral centers, the total number of stereoisomers is 2^n, where n is the number of chiral centers.
+
+2^2 = 4
+
+Therefore, there are 4 possible stereoisomers for 3-chloro-2-hydroxybutanoic acid.

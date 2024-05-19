@@ -1,0 +1,5 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+In organic chemistry, what is the proper name for the compound CH3CH2OH?
+The proper name for the compound CH3CH2OH in organic chemistry is ethanol.

@@ -1,0 +1,18 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of desorption calculations
+A chemistry student needs to determine the enthalpy of desorption for a specific substance. The substance was adsorbed onto activated carbon in a packed bed reactor at 25°C and under a pressure of 4 bar. The adsorption process was carried out until saturation was reached. The packed bed reactor was then heated to 100°C until complete desorption. The pressure was maintained at 4 bar during the entire process. Given the initial mass of the adsorbate and the final mass of the activated carbon, calculate the enthalpy of desorption for the substance.
+To calculate the enthalpy of desorption for the substance, we need some additional information, such as the initial mass of the adsorbate (m1), the final mass of the activated carbon (m2), and the specific heat capacity of the substance (Cp). However, I can provide you with the general formula to calculate the enthalpy of desorption.
+
+The enthalpy of desorption (ΔH_des) can be calculated using the following formula:
+
+ΔH_des = (m1 - m2) * Cp * (T2 - T1)
+
+where:
+- m1 is the initial mass of the adsorbate (in grams)
+- m2 is the final mass of the activated carbon (in grams)
+- Cp is the specific heat capacity of the substance (in J/g·K)
+- T1 is the initial temperature (25°C, which is 298 K)
+- T2 is the final temperature (100°C, which is 373 K)
+
+Once you have the values for m1, m2, and Cp, you can plug them into the formula and calculate the enthalpy of desorption for the substance.

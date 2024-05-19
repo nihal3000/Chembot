@@ -1,0 +1,5 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+"What is the systematic name of the organic compound with the molecular formula C6H12O and a ketone functional group located on the second carbon atom from the left end?"
+The systematic name of the organic compound with the molecular formula C6H12O and a ketone functional group located on the second carbon atom from the left end is 2-hexanone.

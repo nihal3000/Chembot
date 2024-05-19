@@ -1,0 +1,21 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of isomerization calculations
+Calculate the enthalpy change for the isomerization of butene-1 to butene-2 given that the standard enthalpy of formation of butene-1 is -25.3 kJ/mol and the standard enthalpy of formation of butene-2 is -23.6 kJ/mol. The reaction is carried out at a constant pressure of 1 atm and a temperature of 298 K.
+To calculate the enthalpy change (ΔH) for the isomerization of butene-1 to butene-2, we can use the following equation:
+
+ΔH = ΣΔHf(products) - ΣΔHf(reactants)
+
+In this case, the reactant is butene-1 and the product is butene-2. The standard enthalpy of formation (ΔHf) for butene-1 is -25.3 kJ/mol, and for butene-2 is -23.6 kJ/mol.
+
+The reaction can be written as:
+
+butene-1 → butene-2
+
+Now, we can plug the values into the equation:
+
+ΔH = (-23.6 kJ/mol) - (-25.3 kJ/mol)
+
+ΔH = 1.7 kJ/mol
+
+The enthalpy change for the isomerization of butene-1 to butene-2 is 1.7 kJ/mol.

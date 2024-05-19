@@ -1,0 +1,5 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+Identify and name the following organic compound: CH3-CH=CH-Br.
+The given organic compound is 3-bromopropene.

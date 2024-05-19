@@ -1,0 +1,29 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of dissolution calculations
+Calculate the enthalpy change for the dissolution of 10 g of sodium hydroxide in 100 g of water at a temperature of 25°C, given that the final temperature of the solution is 26.5°C and the specific heat capacity of the solution is 4.18 J g⁻¹ K⁻¹. (Assume that the heat released is absorbed by the solution and there is no heat lost to the surroundings.)
+To calculate the enthalpy change for the dissolution of sodium hydroxide, we can use the formula:
+
+q = mcΔT
+
+where q is the heat absorbed or released, m is the mass of the solution, c is the specific heat capacity, and ΔT is the change in temperature.
+
+First, let's find the mass of the solution. Since we have 10 g of sodium hydroxide and 100 g of water, the total mass of the solution is:
+
+m = 10 g (NaOH) + 100 g (H2O) = 110 g
+
+Next, we need to find the change in temperature. The initial temperature is 25°C and the final temperature is 26.5°C, so the change in temperature is:
+
+ΔT = 26.5°C - 25°C = 1.5°C
+
+Now we can plug the values into the formula:
+
+q = (110 g) × (4.18 J g⁻¹ K⁻¹) × (1.5°C)
+
+q = 688.47 J
+
+Since the heat is released during the dissolution process, the enthalpy change is negative:
+
+ΔH = -688.47 J
+
+So, the enthalpy change for the dissolution of 10 g of sodium hydroxide in 100 g of water at 25°C is -688.47 J.

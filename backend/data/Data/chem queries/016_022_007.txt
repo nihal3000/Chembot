@@ -1,0 +1,17 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of isomerization calculations
+What is the enthalpy change for the isomerization of butene-1 to butene-2 at standard conditions, given the enthalpies of formation of butene-1, butene-2, and hydrogen gas?
+To calculate the enthalpy change (ΔH) for the isomerization of butene-1 to butene-2, we can use the following equation:
+
+ΔH = ΣΔHf(products) - ΣΔHf(reactants)
+
+In this case, the reactant is butene-1 and the product is butene-2. Hydrogen gas is not involved in the isomerization process, so we don't need its enthalpy of formation.
+
+Let's denote the enthalpy of formation of butene-1 as ΔHf(butene-1) and the enthalpy of formation of butene-2 as ΔHf(butene-2).
+
+Now, we can plug the values into the equation:
+
+ΔH = ΔHf(butene-2) - ΔHf(butene-1)
+
+Please provide the enthalpies of formation for butene-1 and butene-2 to calculate the enthalpy change for the isomerization.

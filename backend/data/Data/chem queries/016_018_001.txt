@@ -1,0 +1,22 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+What is the enthalpy of ionization of rubidium if 0.15 mol of solid rubidium reacts completely with excess chlorine gas to form 0.225 mol of rubidium chloride and releases 414.75 kJ of heat at constant pressure?
+To find the enthalpy of ionization of rubidium, we first need to determine the enthalpy change of the reaction between rubidium and chlorine gas to form rubidium chloride. The balanced chemical equation for this reaction is:
+
+2 Rb(s) + Cl2(g) → 2 RbCl(s)
+
+Given that 0.15 mol of solid rubidium reacts completely with excess chlorine gas to form 0.225 mol of rubidium chloride and releases 414.75 kJ of heat, we can calculate the enthalpy change per mole of rubidium:
+
+Enthalpy change (ΔH) = -414.75 kJ (released heat, so it's exothermic and negative)
+Moles of rubidium (Rb) = 0.15 mol
+
+ΔH per mole of Rb = ΔH / moles of Rb = -414.75 kJ / 0.15 mol = -2765 kJ/mol
+
+Now, we need to consider that the enthalpy of ionization of rubidium is the energy required to remove one electron from a rubidium atom to form a rubidium ion:
+
+Rb → Rb+ + e-
+
+Since the formation of rubidium chloride involves the transfer of one electron from rubidium to chlorine, the enthalpy of ionization of rubidium can be approximated as the enthalpy change per mole of rubidium in the reaction:
+
+Enthalpy of ionization of rubidium ≈ -2765 kJ/mol

@@ -1,0 +1,21 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+Calculate the enthalpy change for the ionization of magnesium, given that it requires 738 kJ/mol to remove an electron from a gaseous magnesium atom, and that the ionization energy for a second electron is 1450 kJ/mol.
+To calculate the enthalpy change for the ionization of magnesium, we need to consider both ionization steps. Magnesium has two valence electrons, so it will lose both electrons to form a Mg²⁺ ion.
+
+The first ionization energy is given as 738 kJ/mol, which corresponds to the removal of the first electron:
+
+Mg(g) → Mg⁺(g) + e⁻    ΔH₁ = +738 kJ/mol
+
+The second ionization energy is given as 1450 kJ/mol, which corresponds to the removal of the second electron:
+
+Mg⁺(g) → Mg²⁺(g) + e⁻    ΔH₂ = +1450 kJ/mol
+
+To find the total enthalpy change for the ionization of magnesium, we need to add the enthalpy changes for both ionization steps:
+
+ΔH_total = ΔH₁ + ΔH₂
+ΔH_total = (+738 kJ/mol) + (+1450 kJ/mol)
+ΔH_total = +2188 kJ/mol
+
+So, the enthalpy change for the ionization of magnesium is +2188 kJ/mol.

@@ -1,0 +1,33 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+Calculate the enthalpy of ionization of hydrogen atom from hydrogen molecule given that the bond dissociation enthalpy of H2 is 432 kJ/mol and the electron affinity of H atom is -72.8 kJ/mol.
+To calculate the enthalpy of ionization of a hydrogen atom from a hydrogen molecule, we need to consider the following steps:
+
+1. Breaking the H-H bond in the hydrogen molecule (H2) to form two hydrogen atoms.
+2. Removing an electron from one of the hydrogen atoms to form a hydrogen ion (H+).
+
+Step 1: Bond dissociation enthalpy of H2
+The bond dissociation enthalpy of H2 is given as 432 kJ/mol. This is the energy required to break the H-H bond and form two hydrogen atoms.
+
+H2 → 2H
+ΔH1 = 432 kJ/mol
+
+Step 2: Ionization enthalpy of hydrogen atom
+The ionization enthalpy of a hydrogen atom is the energy required to remove an electron from the hydrogen atom to form a hydrogen ion (H+). The electron affinity of H atom is given as -72.8 kJ/mol. The negative sign indicates that energy is released when an electron is added to a hydrogen atom to form a negatively charged ion (H-).
+
+H → H+ + e-
+ΔH2 = Ionization enthalpy of hydrogen atom
+
+Since we know the electron affinity of hydrogen atom, we can use the following relationship to find the ionization enthalpy:
+
+Ionization enthalpy (ΔH2) = -1 × Electron affinity
+
+ΔH2 = -1 × (-72.8 kJ/mol) = 72.8 kJ/mol
+
+Now, we can calculate the overall enthalpy of ionization of hydrogen atom from hydrogen molecule:
+
+ΔH_total = ΔH1 + ΔH2
+ΔH_total = 432 kJ/mol + 72.8 kJ/mol = 504.8 kJ/mol
+
+Therefore, the enthalpy of ionization of hydrogen atom from hydrogen molecule is 504.8 kJ/mol.

@@ -1,0 +1,26 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of polymerization calculations
+Calculate the enthalpy of polymerization of ethylene from the following data: 
+
+Ethylene, C2H4(g) polymerizes to form polyethylene, (C2H4)n(s) with ΔHrxn = -44.0 kJ/mol at 298 K. 
+
+Additionally, it is known that the standard enthalpies of formation of C2H4(g) and polyethylene (C2H4)n(s) are 52.3 kJ/mol and -128.2 kJ/mol, respectively. 
+
+Assuming the enthalpy of polymerization is independent of temperature, calculate ΔHºp for the reaction.
+To calculate the enthalpy of polymerization (ΔHºp) for the reaction, we can use the following equation:
+
+ΔHºp = ΔHfº(products) - ΔHfº(reactants)
+
+In this case, the reactants are ethylene (C2H4(g)) and the products are polyethylene ((C2H4)n(s)). We are given the standard enthalpies of formation (ΔHfº) for both substances:
+
+ΔHfº(C2H4(g)) = 52.3 kJ/mol
+ΔHfº((C2H4)n(s)) = -128.2 kJ/mol
+
+Now, we can plug these values into the equation:
+
+ΔHºp = (-128.2 kJ/mol) - (52.3 kJ/mol)
+
+ΔHºp = -180.5 kJ/mol
+
+Therefore, the enthalpy of polymerization for the reaction is -180.5 kJ/mol.

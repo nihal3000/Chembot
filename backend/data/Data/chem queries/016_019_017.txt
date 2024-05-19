@@ -1,0 +1,32 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of adsorption calculations
+A chemistry student needs to calculate the enthalpy of adsorption of ammonia that is adsorbed on silica gel at a temperature of 298 K. The student is provided with the following information: 
+
+- The partial pressure of ammonia in the gas phase is 0.5 atm
+- The initial temperature of the clean silica gel is 298 K
+- The final temperature of the adsorbed ammonia and silica gel mixture is 306 K
+- The mass of ammonia adsorbed on silica gel is 0.025 grams 
+
+What is the enthalpy of adsorption of ammonia on silica gel at 298 K, in kJ/mol?
+To calculate the enthalpy of adsorption, we first need to determine the amount of heat released during the adsorption process. We can do this using the heat capacity of ammonia and the temperature change of the system.
+
+1. Calculate the moles of ammonia adsorbed:
+Ammonia has a molar mass of 17 g/mol. 
+moles of ammonia = mass of ammonia / molar mass
+moles of ammonia = 0.025 g / 17 g/mol = 0.00147 mol
+
+2. Calculate the heat released during adsorption:
+We will use the heat capacity of ammonia, which is approximately 35 J/mol·K.
+ΔT = T_final - T_initial = 306 K - 298 K = 8 K
+q = moles of ammonia × heat capacity × ΔT
+q = 0.00147 mol × 35 J/mol·K × 8 K = 0.411 J
+
+3. Calculate the enthalpy of adsorption per mole of ammonia:
+ΔH_adsorption = q / moles of ammonia
+ΔH_adsorption = 0.411 J / 0.00147 mol = 279.6 J/mol
+
+4. Convert the enthalpy of adsorption to kJ/mol:
+ΔH_adsorption = 279.6 J/mol × (1 kJ / 1000 J) = 0.280 kJ/mol
+
+The enthalpy of adsorption of ammonia on silica gel at 298 K is approximately 0.280 kJ/mol.

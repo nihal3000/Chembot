@@ -1,0 +1,22 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of dissolution calculations
+Calculate the enthalpy change of the dissolution of 5 grams of sodium hydroxide (NaOH) in 100 mL of water, given the molar enthalpy of dissolution of NaOH to be -44 kilojoules per mole.
+To calculate the enthalpy change of the dissolution of 5 grams of sodium hydroxide (NaOH) in 100 mL of water, we first need to determine the number of moles of NaOH in 5 grams.
+
+The molar mass of NaOH is:
+Na = 22.99 g/mol
+O = 16.00 g/mol
+H = 1.01 g/mol
+Total = 22.99 + 16.00 + 1.01 = 40.00 g/mol
+
+Now, we can find the number of moles of NaOH in 5 grams:
+moles = mass / molar mass
+moles = 5 g / 40.00 g/mol = 0.125 mol
+
+Next, we can use the molar enthalpy of dissolution to find the enthalpy change for the dissolution of 0.125 mol of NaOH. The molar enthalpy of dissolution is -44 kJ/mol, which means that -44 kJ of energy is released per mole of NaOH dissolved.
+
+Enthalpy change = moles × molar enthalpy of dissolution
+Enthalpy change = 0.125 mol × -44 kJ/mol = -5.5 kJ
+
+Therefore, the enthalpy change of the dissolution of 5 grams of sodium hydroxide (NaOH) in 100 mL of water is -5.5 kJ.

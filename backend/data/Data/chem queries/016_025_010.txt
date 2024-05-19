@@ -1,0 +1,21 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of dissolution calculations
+What is the enthalpy change of dissolving 5 grams of NaOH in 50 mL of water at 25°C, given the following information:
+- The enthalpy of solution for NaOH is -44.51 kJ/mol
+- The density of water at 25°C is 0.997 g/mL
+- Assume the specific heat capacity of the solution is 4.18 J/g°C
+To calculate the enthalpy change of dissolving 5 grams of NaOH in 50 mL of water at 25°C, we need to follow these steps:
+
+1. Calculate the moles of NaOH.
+2. Calculate the enthalpy change using the enthalpy of solution.
+
+Step 1: Calculate the moles of NaOH
+The molar mass of NaOH is 22.99 (Na) + 15.999 (O) + 1.007 (H) = 39.996 g/mol.
+So, moles of NaOH = mass / molar mass = 5 g / 39.996 g/mol = 0.125 mol
+
+Step 2: Calculate the enthalpy change using the enthalpy of solution
+Enthalpy change = moles of NaOH * enthalpy of solution
+Enthalpy change = 0.125 mol * (-44.51 kJ/mol) = -5.56 kJ
+
+Therefore, the enthalpy change of dissolving 5 grams of NaOH in 50 mL of water at 25°C is -5.56 kJ.

@@ -1,0 +1,17 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of dissolution calculations
+What is the enthalpy of dissolution of 10 grams of sodium chloride in 100 mL of water at 25°C, given that the final solution has a concentration of 1 M? (Assume that the specific heat capacity of the solution is 4.18 J/g°C)
+To calculate the enthalpy of dissolution of sodium chloride, we need to know the heat of dissolution (ΔH) for sodium chloride. The heat of dissolution for sodium chloride is -3.88 kJ/mol.
+
+First, we need to find the number of moles of sodium chloride (NaCl) in 10 grams:
+
+Molar mass of NaCl = 58.44 g/mol
+Number of moles = (mass) / (molar mass) = (10 g) / (58.44 g/mol) = 0.171 mol
+
+Now, we can calculate the enthalpy change for dissolving 0.171 mol of NaCl:
+
+ΔH = (moles of NaCl) × (heat of dissolution per mole)
+ΔH = (0.171 mol) × (-3.88 kJ/mol) = -0.664 kJ
+
+The enthalpy of dissolution for 10 grams of sodium chloride in 100 mL of water at 25°C is -0.664 kJ.

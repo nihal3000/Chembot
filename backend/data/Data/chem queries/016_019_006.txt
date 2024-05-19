@@ -1,0 +1,29 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of adsorption calculations
+Calculate the enthalpy of adsorption for the adsorption of 5 grams of hydrogen gas on a solid adsorbent at a temperature of 298 K, if the pressure of hydrogen gas is 2.5 atm and the volume of the adsorbent is 100 cm3. Assume ideal gas behavior and use the equation ΔH = -q/n, where ΔH is the enthalpy of adsorption, q is the heat absorbed, and n is the number of moles of gas adsorbed.
+First, we need to find the number of moles of hydrogen gas (n) using the given mass (5 grams) and the molar mass of hydrogen gas (2 grams/mol).
+
+n = mass / molar mass
+n = 5 g / (2 g/mol)
+n = 2.5 moles
+
+Next, we need to find the heat absorbed (q) using the ideal gas law: PV = nRT, where P is the pressure, V is the volume, n is the number of moles, R is the ideal gas constant (0.0821 L·atm/mol·K), and T is the temperature.
+
+First, convert the volume of the adsorbent from cm³ to L:
+
+100 cm³ * (1 L / 1000 cm³) = 0.1 L
+
+Now, rearrange the ideal gas law to solve for q:
+
+q = nRT / P
+q = (2.5 moles) * (0.0821 L·atm/mol·K) * (298 K) / (2.5 atm)
+q = 61.2675 J
+
+Finally, we can calculate the enthalpy of adsorption (ΔH) using the equation ΔH = -q/n:
+
+ΔH = -q / n
+ΔH = -61.2675 J / 2.5 moles
+ΔH = -24.507 J/mol
+
+The enthalpy of adsorption for the adsorption of 5 grams of hydrogen gas on a solid adsorbent at a temperature of 298 K and a pressure of 2.5 atm is -24.507 J/mol.

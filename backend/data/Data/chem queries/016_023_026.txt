@@ -1,0 +1,14 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of hydrolysis calculations
+What is the enthalpy change for the hydrolysis of 2 moles of sucrose (C12H22O11) in aqueous solution, given the following information:
+- ΔHf(C12H22O11) = -564.8 kJ/mol
+- ΔHf(H2O) = -285.8 kJ/mol
+- ΔH°rxn for the hydrolysis of sucrose = -126.3 kJ/mol.
+To find the enthalpy change for the hydrolysis of 2 moles of sucrose, we can use the given ΔH°rxn for the hydrolysis of sucrose, which is -126.3 kJ/mol. Since we have 2 moles of sucrose, we can simply multiply the ΔH°rxn by the number of moles:
+
+ΔH = ΔH°rxn × moles of sucrose
+ΔH = (-126.3 kJ/mol) × 2 moles
+ΔH = -252.6 kJ
+
+So, the enthalpy change for the hydrolysis of 2 moles of sucrose in aqueous solution is -252.6 kJ.

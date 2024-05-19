@@ -1,0 +1,35 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of precipitation calculations
+What is the enthalpy of precipitation for the reaction between sodium chloride and silver nitrate, given that 50.0 mL of 0.200 M sodium chloride is mixed with 50.0 mL of 0.200 M silver nitrate at 25°C and the resulting mixture is allowed to reach equilibrium? The molar mass of sodium chloride is 58.44 g/mol and silver nitrate is 169.87 g/mol.
+To calculate the enthalpy of precipitation for the reaction between sodium chloride (NaCl) and silver nitrate (AgNO3), we first need to determine the balanced chemical equation for the reaction:
+
+NaCl (aq) + AgNO3 (aq) → AgCl (s) + NaNO3 (aq)
+
+Next, we need to determine the limiting reactant. Since both solutions have the same concentration (0.200 M) and volume (50.0 mL), they will react in a 1:1 ratio according to the balanced equation. Therefore, neither reactant is in excess, and both are limiting reactants.
+
+Now, we can calculate the moles of each reactant:
+
+Moles of NaCl = (0.200 mol/L) * (50.0 mL) * (1 L/1000 mL) = 0.0100 mol
+Moles of AgNO3 = (0.200 mol/L) * (50.0 mL) * (1 L/1000 mL) = 0.0100 mol
+
+Since both reactants are limiting, 0.0100 mol of AgCl will precipitate out of the solution.
+
+To find the enthalpy of precipitation, we need the enthalpy of formation for each compound involved in the reaction. The standard enthalpies of formation (∆Hf°) at 25°C are as follows:
+
+NaCl (aq): -407.3 kJ/mol
+AgNO3 (aq): -124.9 kJ/mol
+AgCl (s): -127.0 kJ/mol
+NaNO3 (aq): -365.6 kJ/mol
+
+Using these values, we can calculate the enthalpy change for the reaction (∆Hrxn) using the equation:
+
+∆Hrxn = [∆Hf°(products) - ∆Hf°(reactants)]
+
+∆Hrxn = [(1 mol AgCl * -127.0 kJ/mol) + (1 mol NaNO3 * -365.6 kJ/mol)] - [(1 mol NaCl * -407.3 kJ/mol) + (1 mol AgNO3 * -124.9 kJ/mol)]
+
+∆Hrxn = (-127.0 - 365.6) - (-407.3 - 124.9)
+∆Hrxn = -492.6 + 532.2
+∆Hrxn = 39.6 kJ/mol
+
+Therefore, the enthalpy of precipitation for the reaction between sodium chloride and silver nitrate is 39.6 kJ/mol.

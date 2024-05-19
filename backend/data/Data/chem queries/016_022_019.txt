@@ -1,0 +1,17 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of isomerization calculations
+Calculate the enthalpy change of isomerization for the conversion of cis-but-2-ene to trans-but-2-ene if the enthalpy of formation of cis-but-2-ene is -24.7 kJ/mol and the enthalpy of formation of trans-but-2-ene is -28.6 kJ/mol. The heat of combustion of but-2-ene is -2723 kJ/mol.
+To calculate the enthalpy change of isomerization for the conversion of cis-but-2-ene to trans-but-2-ene, we can use the following equation:
+
+ΔH_isomerization = ΔH_f(trans-but-2-ene) - ΔH_f(cis-but-2-ene)
+
+Where ΔH_isomerization is the enthalpy change of isomerization, ΔH_f(trans-but-2-ene) is the enthalpy of formation of trans-but-2-ene, and ΔH_f(cis-but-2-ene) is the enthalpy of formation of cis-but-2-ene.
+
+Plugging in the given values:
+
+ΔH_isomerization = (-28.6 kJ/mol) - (-24.7 kJ/mol)
+
+ΔH_isomerization = -3.9 kJ/mol
+
+The enthalpy change of isomerization for the conversion of cis-but-2-ene to trans-but-2-ene is -3.9 kJ/mol.

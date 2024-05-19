@@ -1,0 +1,27 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of precipitation calculations
+Calculate the enthalpy change when 50 mL of 0.2 M sodium chloride solution is mixed with 50 mL of 0.2 M silver nitrate solution. The final temperature of the solution was found to be 25°C and the initial temperature of the reactants was 30°C. The specific heat of the solution is 4.18 J/g°C, and the density of the solution is 1.00 g/mL.
+To calculate the enthalpy change, we need to first determine the heat released or absorbed during the reaction. We can do this using the formula:
+
+q = mcΔT
+
+where q is the heat released or absorbed, m is the mass of the solution, c is the specific heat of the solution, and ΔT is the change in temperature.
+
+First, let's find the mass of the solution. Since the density of the solution is 1.00 g/mL, and we have a total volume of 100 mL (50 mL of sodium chloride solution + 50 mL of silver nitrate solution), the mass of the solution is:
+
+m = 1.00 g/mL * 100 mL = 100 g
+
+Now, let's find the change in temperature. The final temperature is 25°C, and the initial temperature is 30°C, so:
+
+ΔT = 25°C - 30°C = -5°C
+
+Now we can calculate the heat released or absorbed:
+
+q = mcΔT = (100 g)(4.18 J/g°C)(-5°C) = -2090 J
+
+Since the heat is negative, this means that the reaction is exothermic and heat is released. The enthalpy change is equal to the heat released or absorbed, so:
+
+ΔH = -2090 J
+
+The enthalpy change when 50 mL of 0.2 M sodium chloride solution is mixed with 50 mL of 0.2 M silver nitrate solution is -2090 J.

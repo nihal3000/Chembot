@@ -1,0 +1,5 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+Name the following organic compound: CH3CH2CH2CH(CH3)2.
+The organic compound CH3CH2CH2CH(CH3)2 is named 2,2-dimethylbutane.

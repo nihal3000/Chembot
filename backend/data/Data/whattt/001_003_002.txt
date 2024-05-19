@@ -1,0 +1,41 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Stereochemistry and chirality
+Identify the number of stereoisomers that can be formed from the compound 2,3-dichlorobutane, and draw their structures.
+2,3-dichlorobutane has two chiral centers, which are carbons 2 and 3. To determine the number of stereoisomers, we can use the formula 2^n, where n is the number of chiral centers. In this case, n = 2, so there are 2^2 = 4 possible stereoisomers.
+
+Here are the structures of the four stereoisomers:
+
+1. (2R,3R)-2,3-dichlorobutane:
+
+      Cl      Cl
+       |       |
+H3C - C - C - C - CH3
+       |       |
+       H       H
+
+2. (2S,3S)-2,3-dichlorobutane:
+
+      Cl      Cl
+       |       |
+H3C - C - C - C - CH3
+       |       |
+       H       H
+
+3. (2R,3S)-2,3-dichlorobutane:
+
+      Cl      H
+       |       |
+H3C - C - C - C - CH3
+       |       |
+       H       Cl
+
+4. (2S,3R)-2,3-dichlorobutane:
+
+      Cl      H
+       |       |
+H3C - C - C - C - CH3
+       |       |
+       H       Cl
+
+These four stereoisomers include two pairs of enantiomers: (2R,3R) and (2S,3S), and (2R,3S) and (2S,3R).

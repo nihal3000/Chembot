@@ -1,0 +1,21 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of precipitation calculations
+Calculate the enthalpy change when 50 ml of 0.2 M sodium chloride solution is mixed with 50 ml of 0.1 M silver nitrate solution. Given the enthalpy of precipitation of silver chloride as -64.8 kJ/mol.
+To calculate the enthalpy change, we first need to determine the amount of silver chloride (AgCl) that will be formed when the two solutions are mixed. The balanced chemical equation for the reaction is:
+
+AgNO3(aq) + NaCl(aq) → AgCl(s) + NaNO3(aq)
+
+First, we need to find the moles of each reactant:
+
+Moles of NaCl = (Volume × Molarity) = (0.050 L × 0.2 mol/L) = 0.01 mol
+Moles of AgNO3 = (Volume × Molarity) = (0.050 L × 0.1 mol/L) = 0.005 mol
+
+Since the stoichiometry of the reaction is 1:1, the limiting reactant is AgNO3, as there are fewer moles of it. Therefore, 0.005 mol of AgCl will be formed.
+
+Now, we can calculate the enthalpy change using the enthalpy of precipitation of silver chloride:
+
+Enthalpy change = moles of AgCl × enthalpy of precipitation per mole
+Enthalpy change = 0.005 mol × (-64.8 kJ/mol) = -0.324 kJ
+
+The enthalpy change for the reaction is -0.324 kJ.

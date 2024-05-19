@@ -1,0 +1,16 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Stereochemistry and chirality
+Identify the chirality centers in the compound (2R,3S)-butanedioic acid and draw all possible stereoisomers. Determine which of the stereoisomers is the enantiomer of (2R,3S)-butanedioic acid.
+(2R,3S)-butanedioic acid has two chirality centers: C2 and C3. The IUPAC name for this compound is (2R,3S)-2,3-dihydroxybutanedioic acid. The structure of this compound is as follows:
+
+HOOC-CH(OH)-CH(OH)-COOH
+
+To draw all possible stereoisomers, we need to consider the different configurations at both chirality centers. There are 2^2 = 4 possible stereoisomers:
+
+1. (2R,3S)-butanedioic acid: HOOC-CH(OH)-CH(OH)-COOH
+2. (2S,3S)-butanedioic acid: HOOC-CH(OH)-CH(OH)-COOH
+3. (2R,3R)-butanedioic acid: HOOC-CH(OH)-CH(OH)-COOH
+4. (2S,3R)-butanedioic acid: HOOC-CH(OH)-CH(OH)-COOH
+
+The enantiomer of (2R,3S)-butanedioic acid is the molecule with the opposite configuration at both chirality centers. In this case, the enantiomer is (2S,3R)-butanedioic acid.

@@ -1,0 +1,9 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+What is the IUPAC name of the following organic compound?
+
+   CH3-CH2-CH(Cl)-CH=CH2
+
+Hint: The longest chain contains 5 carbon atoms.
+The IUPAC name of the given organic compound is 3-chloro-1-pentene.

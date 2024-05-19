@@ -1,0 +1,25 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of precipitation calculations
+What is the enthalpy of precipitation for the reaction between 0.1 M NaOH and 0.1 M CaCl2 at 25°C? Given that the enthalpy of formation for NaCl and Ca(OH)2 are -407.14 kJ/mol and -986.09 kJ/mol, respectively.
+To calculate the enthalpy of precipitation for the reaction between NaOH and CaCl2, we need to first write the balanced chemical equation for the reaction:
+
+CaCl2 (aq) + 2 NaOH (aq) → Ca(OH)2 (s) + 2 NaCl (aq)
+
+Next, we need to use Hess's Law, which states that the enthalpy change of a reaction is the sum of the enthalpy changes of formation of the products minus the sum of the enthalpy changes of formation of the reactants.
+
+ΔH = Σ ΔHf (products) - Σ ΔHf (reactants)
+
+We are given the enthalpy of formation for NaCl and Ca(OH)2. However, we need to find the enthalpy of formation for NaOH and CaCl2. The standard enthalpy of formation for NaOH is -425.6 kJ/mol, and for CaCl2 is -795.4 kJ/mol.
+
+Now we can plug in the values into Hess's Law equation:
+
+ΔH = [1 × (-986.09 kJ/mol) + 2 × (-407.14 kJ/mol)] - [1 × (-795.4 kJ/mol) + 2 × (-425.6 kJ/mol)]
+
+ΔH = (-986.09 - 814.28) - (-795.4 - 851.2)
+
+ΔH = -1800.37 + 1646.6
+
+ΔH = -153.77 kJ/mol
+
+The enthalpy of precipitation for the reaction between 0.1 M NaOH and 0.1 M CaCl2 at 25°C is -153.77 kJ/mol.

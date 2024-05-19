@@ -1,0 +1,33 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of precipitation calculations
+What is the enthalpy change of precipitation for the reaction between 200 mL of 0.1 M silver nitrate and 200 mL of 0.1 M sodium chloride? Given: the heat capacity of the calorimeter is 20 J/°C, the initial temperature of the reaction mixture is 25°C, and the final temperature is 18.5°C.
+To find the enthalpy change of precipitation for the reaction, we first need to determine the amount of heat released or absorbed during the reaction. We can do this using the heat capacity of the calorimeter and the temperature change of the reaction mixture.
+
+The reaction is as follows:
+
+AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq)
+
+First, let's find the moles of reactants:
+
+Moles of AgNO₃ = 0.1 M × 0.2 L = 0.02 moles
+Moles of NaCl = 0.1 M × 0.2 L = 0.02 moles
+
+Since both reactants have the same number of moles and the stoichiometry of the reaction is 1:1, the reaction will go to completion and both reactants will be used up.
+
+Now, let's find the heat released or absorbed during the reaction using the heat capacity of the calorimeter and the temperature change:
+
+q = C × ΔT
+q = 20 J/°C × (18.5°C - 25°C)
+q = 20 J/°C × (-6.5°C)
+q = -130 J
+
+Since the value of q is negative, the reaction is exothermic, meaning heat is released during the reaction.
+
+Now, we can find the enthalpy change of precipitation per mole of the reaction:
+
+ΔH = q / moles of reaction
+ΔH = -130 J / 0.02 moles
+ΔH = -6500 J/mol
+
+The enthalpy change of precipitation for the reaction between 200 mL of 0.1 M silver nitrate and 200 mL of 0.1 M sodium chloride is -6500 J/mol.

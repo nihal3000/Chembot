@@ -1,0 +1,27 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of desorption calculations
+What is the enthalpy of desorption of water from a silica gel surface, given that the initial weight of the silica gel was 5 g, and after desorption, the weight decreased to 3.5 g? The specific heat capacity of silica gel is 0.5 J/g°C and the initial temperature was 25°C, while the final temperature was 40°C. Assume that the process is reversible and the pressure is constant at 1 atm.
+To calculate the enthalpy of desorption of water from the silica gel surface, we first need to determine the amount of heat absorbed by the silica gel during the temperature change.
+
+1. Calculate the mass of water desorbed:
+Initial mass of silica gel = 5 g
+Final mass of silica gel = 3.5 g
+Mass of water desorbed = 5 g - 3.5 g = 1.5 g
+
+2. Calculate the heat absorbed by the silica gel:
+Specific heat capacity of silica gel = 0.5 J/g°C
+Initial temperature = 25°C
+Final temperature = 40°C
+Temperature change = 40°C - 25°C = 15°C
+
+Heat absorbed by silica gel (q) = mass of silica gel × specific heat capacity × temperature change
+q = 3.5 g × 0.5 J/g°C × 15°C = 26.25 J
+
+3. Calculate the enthalpy of desorption per gram of water (ΔH):
+Since the process is reversible and at constant pressure, the enthalpy change is equal to the heat absorbed by the silica gel.
+
+ΔH = q / mass of water desorbed
+ΔH = 26.25 J / 1.5 g = 17.5 J/g
+
+The enthalpy of desorption of water from the silica gel surface is 17.5 J/g.

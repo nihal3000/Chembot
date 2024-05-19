@@ -1,0 +1,17 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of dissolution calculations
+Calculate the enthalpy change for the dissolution of 10.0 grams of sodium chloride (NaCl) in 100 mL of water at 25°C. The density of water is 1.00 g/mL and the heat capacity of the solution is 4.18 J/g°C. The molar mass of NaCl is 58.44 g/mol and its enthalpy of dissolution is -3.9 kJ/mol.
+To calculate the enthalpy change for the dissolution of 10.0 grams of sodium chloride (NaCl) in 100 mL of water at 25°C, we will first determine the number of moles of NaCl and then use the enthalpy of dissolution to find the total enthalpy change.
+
+1. Calculate the number of moles of NaCl:
+moles of NaCl = mass of NaCl / molar mass of NaCl
+moles of NaCl = 10.0 g / 58.44 g/mol
+moles of NaCl = 0.171 mol
+
+2. Calculate the enthalpy change for the dissolution of NaCl:
+enthalpy change = moles of NaCl * enthalpy of dissolution
+enthalpy change = 0.171 mol * (-3.9 kJ/mol)
+enthalpy change = -0.667 kJ
+
+The enthalpy change for the dissolution of 10.0 grams of sodium chloride in 100 mL of water at 25°C is -0.667 kJ.

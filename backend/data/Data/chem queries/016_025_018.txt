@@ -1,0 +1,19 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of dissolution calculations
+What is the enthalpy change for dissolving 10 grams of potassium chloride in 100 mL of water at 25°C if the resulting solution has a concentration of 0.5 M?
+To calculate the enthalpy change for dissolving potassium chloride (KCl) in water, we need to know the enthalpy of solution for KCl. The enthalpy of solution is the amount of heat absorbed or released when one mole of a substance dissolves in a solvent.
+
+The enthalpy of solution for KCl is approximately +17.2 kJ/mol. This means that dissolving KCl in water is an endothermic process, and heat is absorbed from the surroundings.
+
+First, we need to calculate the number of moles of KCl in 10 grams:
+
+Molar mass of KCl = 39.1 g/mol (K) + 35.5 g/mol (Cl) = 74.6 g/mol
+
+Number of moles = mass / molar mass = 10 g / 74.6 g/mol = 0.134 moles
+
+Now, we can calculate the enthalpy change for dissolving 10 grams of KCl:
+
+Enthalpy change = (number of moles) × (enthalpy of solution) = 0.134 moles × 17.2 kJ/mol = 2.30 kJ
+
+Therefore, the enthalpy change for dissolving 10 grams of potassium chloride in 100 mL of water at 25°C is approximately +2.30 kJ.

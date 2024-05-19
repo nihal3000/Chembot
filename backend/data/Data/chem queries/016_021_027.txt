@@ -1,0 +1,30 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of polymerization calculations
+What is the enthalpy change of the polymerization reaction of ethylene? The combustion of ethylene produces -1411 kJ/mol, and the combustion of polyethylene produces -2385 kJ/mol. Given that the enthalpy change of the reaction is independent of the reaction pathway, calculate the enthalpy change of the polymerization reaction of ethylene.
+To calculate the enthalpy change of the polymerization reaction of ethylene, we can use Hess's Law, which states that the enthalpy change of a reaction is independent of the reaction pathway. We can use the combustion reactions of ethylene and polyethylene to determine the enthalpy change of the polymerization reaction.
+
+Let's consider the following reactions:
+
+1. Combustion of ethylene:
+   C2H4 (g) + 3 O2 (g) → 2 CO2 (g) + 2 H2O (l); ΔH1 = -1411 kJ/mol
+
+2. Combustion of polyethylene:
+   -[C2H4]n (s) + 3n O2 (g) → 2n CO2 (g) + 2n H2O (l); ΔH2 = -2385 kJ/mol
+
+We want to find the enthalpy change for the polymerization reaction:
+
+3. Polymerization of ethylene:
+   n C2H4 (g) → -[C2H4]n (s); ΔH3 = ?
+
+Using Hess's Law, we can manipulate the given reactions to find the enthalpy change for the polymerization reaction:
+
+ΔH3 = ΔH2 - nΔH1
+
+Since we are considering the polymerization of one mole of ethylene (n = 1):
+
+ΔH3 = -2385 kJ/mol - (-1411 kJ/mol)
+ΔH3 = -2385 + 1411
+ΔH3 = -974 kJ/mol
+
+Therefore, the enthalpy change of the polymerization reaction of ethylene is -974 kJ/mol.

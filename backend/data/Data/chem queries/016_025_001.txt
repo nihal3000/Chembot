@@ -1,0 +1,15 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of dissolution calculations
+What is the enthalpy change for the dissolution of 4.5 grams of NaOH in water, given that the molar enthalpy of dissolution is -44.5 kJ/mol?
+To calculate the enthalpy change for the dissolution of 4.5 grams of NaOH in water, we first need to determine the number of moles of NaOH. The molar mass of NaOH is approximately 40 g/mol (23 g/mol for Na, 16 g/mol for O, and 1 g/mol for H).
+
+Number of moles = (mass of NaOH) / (molar mass of NaOH)
+Number of moles = 4.5 g / 40 g/mol = 0.1125 mol
+
+Now, we can use the molar enthalpy of dissolution to calculate the enthalpy change.
+
+Enthalpy change = (number of moles) × (molar enthalpy of dissolution)
+Enthalpy change = 0.1125 mol × (-44.5 kJ/mol) = -5.00625 kJ
+
+The enthalpy change for the dissolution of 4.5 grams of NaOH in water is approximately -5.01 kJ.

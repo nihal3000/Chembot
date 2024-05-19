@@ -1,0 +1,5 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+What is the systematic name of the organic compound CH3CH2CH2OH?
+The systematic name of the organic compound CH3CH2CH2OH is propane-1-ol, also known as 1-propanol.

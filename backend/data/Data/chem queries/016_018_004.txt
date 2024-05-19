@@ -1,0 +1,5 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+Calculate the enthalpy change for the ionization of 1 mol of hydrogen chloride gas at standard conditions, given that the enthalpy change for the reaction HCl(g) → H+(aq) + Cl-(aq) is -74.8 kJ/mol.
+The enthalpy change for the ionization of 1 mol of hydrogen chloride gas at standard conditions is given by the enthalpy change for the reaction HCl(g) → H+(aq) + Cl-(aq), which is -74.8 kJ/mol. Therefore, the enthalpy change for the ionization of 1 mol of HCl(g) is -74.8 kJ/mol.

@@ -1,0 +1,24 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of adsorption calculations
+Calculate the heat of adsorption of hydrogen gas on a platinum surface given the initial temperature of the system is 298 K and the final temperature is 330 K. The mass of the platinum surface used is 5 grams, and the amount of hydrogen adsorbed is 0.01 moles. Assume the heat capacity of the system is constant at 25 J/K.
+To calculate the heat of adsorption, we can use the formula:
+
+q = n * C * ΔT
+
+where q is the heat of adsorption, n is the amount of hydrogen adsorbed (in moles), C is the heat capacity of the system (in J/K), and ΔT is the change in temperature (in K).
+
+First, let's find the change in temperature:
+
+ΔT = T_final - T_initial
+ΔT = 330 K - 298 K
+ΔT = 32 K
+
+Now, we can plug the values into the formula:
+
+q = (0.01 moles) * (25 J/K) * (32 K)
+
+q = 0.01 * 25 * 32
+q = 8 J
+
+So, the heat of adsorption of hydrogen gas on the platinum surface is 8 Joules.

@@ -1,0 +1,41 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of adsorption calculations
+What is the enthalpy of adsorption for the adsorption of 2.5 moles of nitrogen gas on the surface of activated charcoal at 298 K? The initial and final pressures of the nitrogen gas are 1.0 atm and 0.8 atm, respectively, and the surface area of the activated charcoal is 25.0 cm². The heat of adsorption for nitrogen gas at 298 K is -56.2 kJ/mol.
+To calculate the enthalpy of adsorption, we can use the following formula:
+
+Enthalpy of adsorption = moles of gas adsorbed × heat of adsorption
+
+First, we need to determine the moles of nitrogen gas adsorbed. We can do this by using the initial and final pressures of the nitrogen gas:
+
+Initial moles of N2 = 2.5 moles (given)
+Initial pressure = 1.0 atm (given)
+Final pressure = 0.8 atm (given)
+
+Using the ideal gas law, we can relate the initial and final moles of nitrogen gas:
+
+PV = nRT
+
+Where P is pressure, V is volume, n is moles, R is the ideal gas constant, and T is temperature. Since the volume and temperature remain constant, we can set up the following equation:
+
+P1 * n1 = P2 * n2
+
+1.0 atm * 2.5 moles = 0.8 atm * n2
+
+Solving for n2:
+
+n2 = (1.0 atm * 2.5 moles) / 0.8 atm
+n2 = 3.125 moles
+
+Now, we can find the moles of nitrogen gas adsorbed:
+
+Moles of N2 adsorbed = Initial moles - Final moles
+Moles of N2 adsorbed = 2.5 moles - 3.125 moles
+Moles of N2 adsorbed = -0.625 moles
+
+Since the moles of N2 adsorbed is negative, it means that 0.625 moles of nitrogen gas were desorbed from the activated charcoal. Therefore, the enthalpy of adsorption will also be negative:
+
+Enthalpy of adsorption = -0.625 moles × -56.2 kJ/mol
+Enthalpy of adsorption = 35.125 kJ
+
+The enthalpy of adsorption for the adsorption of 2.5 moles of nitrogen gas on the surface of activated charcoal at 298 K is 35.125 kJ.

@@ -1,0 +1,25 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of hydrolysis calculations
+A chemistry student wants to calculate the enthalpy change (∆H) upon hydrolysis of magnesium chloride (MgCl2). The student knows that the enthalpy of formation (∆Hf) of MgCl2 is -641 kJ/mol and the enthalpy of formation of water (∆Hf) is -286 kJ/mol. The balanced chemical equation for the hydrolysis of magnesium chloride is MgCl2 + 2H2O → Mg(OH)2 + 2HCl. Calculate the enthalpy change (∆H) of this reaction.
+To calculate the enthalpy change (∆H) of the reaction, we can use the following formula:
+
+∆H = ∑(∆Hf products) - ∑(∆Hf reactants)
+
+First, we need to find the enthalpy of formation for the products, magnesium hydroxide (Mg(OH)2) and hydrochloric acid (HCl). 
+
+The enthalpy of formation of Mg(OH)2 is -924 kJ/mol, and the enthalpy of formation of HCl is -92.3 kJ/mol.
+
+Now, we can plug these values into the formula:
+
+∆H = [1 × (-924 kJ/mol) + 2 × (-92.3 kJ/mol)] - [1 × (-641 kJ/mol) + 2 × (-286 kJ/mol)]
+
+∆H = (-924 - 2 × 92.3) - (-641 - 2 × 286)
+
+∆H = (-924 - 184.6) - (-641 - 572)
+
+∆H = (-1108.6) - (-1213)
+
+∆H = 104.4 kJ/mol
+
+The enthalpy change (∆H) for the hydrolysis of magnesium chloride (MgCl2) is 104.4 kJ/mol.

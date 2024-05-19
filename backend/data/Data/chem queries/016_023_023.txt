@@ -1,0 +1,24 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of hydrolysis calculations
+Calculate the enthalpy change for the hydrolysis of 2 moles of magnesium bromide, MgBr2, in water, given that the standard enthalpy change of formation of magnesium oxide, MgO, is -601.6 kJ/mol and the standard enthalpy change of formation of hydrogen bromide, HBr, is -36.3 kJ/mol.
+To calculate the enthalpy change for the hydrolysis of magnesium bromide, we first need to write the balanced chemical equation for the reaction:
+
+MgBr2 (s) + 2H2O (l) → MgO (s) + 2HBr (aq)
+
+Next, we will use Hess's Law, which states that the enthalpy change of a reaction is the sum of the enthalpy changes of formation of the products minus the sum of the enthalpy changes of formation of the reactants.
+
+ΔH(reaction) = Σ ΔHf(products) - Σ ΔHf(reactants)
+
+For this reaction, the enthalpy change of formation for MgO is given as -601.6 kJ/mol, and for HBr, it is -36.3 kJ/mol. Since there is no enthalpy change of formation for elements in their standard state (MgBr2 and H2O), we can calculate the enthalpy change for the reaction as follows:
+
+ΔH(reaction) = [1 × (-601.6) + 2 × (-36.3)] - [0 + 0]
+ΔH(reaction) = (-601.6 - 72.6) kJ/mol
+ΔH(reaction) = -674.2 kJ/mol
+
+Now, we need to find the enthalpy change for 2 moles of MgBr2:
+
+ΔH(2 moles) = 2 × (-674.2) kJ
+ΔH(2 moles) = -1348.4 kJ
+
+So, the enthalpy change for the hydrolysis of 2 moles of magnesium bromide in water is -1348.4 kJ.

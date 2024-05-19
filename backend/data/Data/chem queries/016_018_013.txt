@@ -1,0 +1,7 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+What is the enthalpy of ionization for a lithium atom when it loses one electron to form a Li+ ion in a gas phase? Given that the energy required to remove an electron from a gaseous Li atom is 520 kJ/mol.
+The enthalpy of ionization, also known as ionization energy, is the energy required to remove an electron from a gaseous atom or ion. In this case, the energy required to remove one electron from a gaseous lithium atom to form a Li+ ion is given as 520 kJ/mol. 
+
+Therefore, the enthalpy of ionization for a lithium atom when it loses one electron to form a Li+ ion in the gas phase is 520 kJ/mol.

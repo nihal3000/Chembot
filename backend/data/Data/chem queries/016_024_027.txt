@@ -1,0 +1,35 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of precipitation calculations
+Calculate the enthalpy change of precipitation when 50 ml of 0.1 M silver nitrate (AgNO3) is added to 50 ml of 0.1 M sodium chloride (NaCl) solution. The temperature of the mixture increases by 5.0 °C. Given the specific heat capacity of the solution is 4.18 J/g °C and the density of the solution is 1.0 g/mL.
+To calculate the enthalpy change of precipitation, we first need to determine the amount of heat released during the reaction. We can do this using the formula:
+
+q = mcΔT
+
+where q is the heat released, m is the mass of the solution, c is the specific heat capacity, and ΔT is the change in temperature.
+
+First, let's find the mass of the solution. Since the density of the solution is 1.0 g/mL, and we have 50 mL of each solution, the total mass of the solution is:
+
+m = (50 mL + 50 mL) * 1.0 g/mL = 100 g
+
+Now, we can plug the values into the formula:
+
+q = (100 g) * (4.18 J/g °C) * (5.0 °C) = 2090 J
+
+Next, we need to determine the moles of the precipitate formed. The balanced chemical equation for the reaction is:
+
+AgNO3 (aq) + NaCl (aq) → AgCl (s) + NaNO3 (aq)
+
+Since both solutions have the same concentration (0.1 M) and volume (50 mL), they will react in a 1:1 ratio. To find the moles of the precipitate (AgCl) formed, we can use the formula:
+
+moles = Molarity * Volume
+
+moles of AgCl = 0.1 M * 0.050 L = 0.005 mol
+
+Finally, we can calculate the enthalpy change of precipitation (ΔH) using the formula:
+
+ΔH = q / moles
+
+ΔH = 2090 J / 0.005 mol = 418000 J/mol
+
+The enthalpy change of precipitation for this reaction is 418 kJ/mol.

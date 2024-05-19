@@ -1,0 +1,29 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of hydrolysis calculations
+Calculate the enthalpy change for the hydrolysis of 2 moles of sucrose (C12H22O11) in aqueous solution given that the heat capacity of the solution is 4.18 J/g.K, the initial and final temperatures of the solution are 22.0°C and 28.0°C respectively. The molar mass of sucrose is 342.3 g/mol.
+To calculate the enthalpy change for the hydrolysis of 2 moles of sucrose, we can use the formula:
+
+ΔH = mcΔT
+
+where ΔH is the enthalpy change, m is the mass of the solution, c is the heat capacity of the solution, and ΔT is the change in temperature.
+
+First, let's find the mass of 2 moles of sucrose:
+
+mass = moles × molar mass
+mass = 2 moles × 342.3 g/mol
+mass = 684.6 g
+
+Now, let's find the change in temperature:
+
+ΔT = T_final - T_initial
+ΔT = 28.0°C - 22.0°C
+ΔT = 6.0°C
+
+Now we can calculate the enthalpy change:
+
+ΔH = mcΔT
+ΔH = (684.6 g)(4.18 J/g.K)(6.0°C)
+ΔH = 17116.968 J
+
+Since the enthalpy change is positive, the reaction is endothermic. The enthalpy change for the hydrolysis of 2 moles of sucrose in aqueous solution is 17,116.968 J or 17.12 kJ (rounded to two decimal places).

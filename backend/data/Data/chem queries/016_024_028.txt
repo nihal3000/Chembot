@@ -1,0 +1,36 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of precipitation calculations
+Calculate the enthalpy change of precipitation when 50 mL of 0.1 M calcium chloride solution is mixed with 50 mL of 0.1 M silver nitrate solution, assuming that the reaction goes to completion and the temperature remains constant at 25°C.
+To calculate the enthalpy change of precipitation, we first need to determine the balanced chemical equation for the reaction between calcium chloride (CaCl₂) and silver nitrate (AgNO₃). The reaction is a double displacement reaction, and the products are silver chloride (AgCl) and calcium nitrate (Ca(NO₃)₂):
+
+CaCl₂(aq) + 2AgNO₃(aq) → 2AgCl(s) + Ca(NO₃)₂(aq)
+
+Next, we need to determine the moles of each reactant. We can do this using the volume and molarity of each solution:
+
+moles of CaCl₂ = volume × molarity = 0.050 L × 0.1 mol/L = 0.005 mol
+moles of AgNO₃ = volume × molarity = 0.050 L × 0.1 mol/L = 0.005 mol
+
+Now, we need to determine the limiting reactant. Since the stoichiometry of the reaction is 1:2 (1 mole of CaCl₂ reacts with 2 moles of AgNO₃), we can see that AgNO₃ is the limiting reactant, as there are not enough moles of AgNO₃ to react with all the moles of CaCl₂.
+
+Next, we need to find the enthalpy change for the reaction. We can do this using the enthalpy of formation values for each compound:
+
+ΔHf°(CaCl₂) = -795 kJ/mol
+ΔHf°(AgNO₃) = -123 kJ/mol
+ΔHf°(AgCl) = -127 kJ/mol
+ΔHf°(Ca(NO₃)₂) = -641 kJ/mol
+
+Now, we can calculate the enthalpy change for the reaction using the following equation:
+
+ΔH = Σ ΔHf°(products) - Σ ΔHf°(reactants)
+
+ΔH = [(2 × -127) + (-641)] - [(-795) + (2 × -123)]
+ΔH = (-254 - 641) - (-795 - 246)
+ΔH = -895 + 1041
+ΔH = 146 kJ/mol
+
+Since the limiting reactant is AgNO₃, and there are 0.005 moles of it, we can now calculate the enthalpy change for the reaction:
+
+ΔH = 146 kJ/mol × 0.005 mol = 0.73 kJ
+
+Therefore, the enthalpy change of precipitation when 50 mL of 0.1 M calcium chloride solution is mixed with 50 mL of 0.1 M silver nitrate solution is 0.73 kJ.

@@ -1,0 +1,26 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+Calculate the enthalpy change for the ionization of sodium chloride given that the enthalpy of formation of NaCl is -411 kJ/mol, and the ionization energy of Na and Cl are 496 kJ/mol and 349 kJ/mol respectively.
+To calculate the enthalpy change for the ionization of sodium chloride (NaCl), we need to consider the following reactions:
+
+1. Formation of NaCl from its elements:
+Na(s) + 1/2 Cl2(g) → NaCl(s)      ΔHf = -411 kJ/mol
+
+2. Ionization of Na:
+Na(s) → Na+(g) + e-      ΔHi(Na) = 496 kJ/mol
+
+3. Electron affinity of Cl:
+1/2 Cl2(g) + e- → Cl-(g)      ΔHea(Cl) = -349 kJ/mol
+
+Now, we need to add the enthalpies of these reactions to find the overall enthalpy change for the ionization of NaCl:
+
+ΔHionization(NaCl) = ΔHf(NaCl) + ΔHi(Na) + ΔHea(Cl)
+
+ΔHionization(NaCl) = -411 kJ/mol + 496 kJ/mol - 349 kJ/mol
+
+ΔHionization(NaCl) = 736 kJ/mol - 411 kJ/mol
+
+ΔHionization(NaCl) = 325 kJ/mol
+
+Therefore, the enthalpy change for the ionization of sodium chloride is 325 kJ/mol.

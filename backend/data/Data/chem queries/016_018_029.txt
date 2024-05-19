@@ -1,0 +1,7 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of ionization calculations
+What is the enthalpy of ionization of Hydrogen atom in the gas phase, given that its first ionization energy is 1312 kilojoules per mole and its second ionization energy is 2372.3 kilojoules per mole?
+The enthalpy of ionization of a hydrogen atom in the gas phase refers to the energy required to remove an electron from the atom. In this case, we are given the first and second ionization energies. However, hydrogen only has one electron, so we only need to consider the first ionization energy.
+
+The first ionization energy of hydrogen is 1312 kJ/mol. This value represents the enthalpy of ionization for hydrogen in the gas phase.

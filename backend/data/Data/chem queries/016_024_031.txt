@@ -1,0 +1,31 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of precipitation calculations
+What is the enthalpy of precipitation for the reaction between 50 ml of 0.1 M Pb(NO3)2 solution and 75 ml of 0.1 M NaI solution? Given that the standard enthalpy of formation of PbI2 is -360 kJ/mol.
+To calculate the enthalpy of precipitation for the reaction, we first need to determine the limiting reactant and the number of moles of the product (PbI2) formed.
+
+The balanced chemical equation for the reaction is:
+
+Pb(NO3)2 (aq) + 2NaI (aq) → PbI2 (s) + 2NaNO3 (aq)
+
+First, let's find the moles of each reactant:
+
+Moles of Pb(NO3)2 = (0.1 mol/L) * (0.050 L) = 0.005 mol
+Moles of NaI = (0.1 mol/L) * (0.075 L) = 0.0075 mol
+
+Now, we need to determine the limiting reactant. The stoichiometry of the reaction shows that 1 mole of Pb(NO3)2 reacts with 2 moles of NaI. Therefore, we can calculate the amount of NaI required to react with the given amount of Pb(NO3)2:
+
+Moles of NaI required = 0.005 mol * 2 = 0.010 mol
+
+Since we have only 0.0075 mol of NaI, NaI is the limiting reactant.
+
+Now, we can calculate the moles of PbI2 formed:
+
+Moles of PbI2 = (0.0075 mol NaI) * (1 mol PbI2 / 2 mol NaI) = 0.00375 mol
+
+Finally, we can calculate the enthalpy of precipitation using the standard enthalpy of formation of PbI2:
+
+Enthalpy of precipitation = moles of PbI2 * standard enthalpy of formation of PbI2
+Enthalpy of precipitation = (0.00375 mol) * (-360 kJ/mol) = -1.35 kJ
+
+So, the enthalpy of precipitation for the reaction is -1.35 kJ.

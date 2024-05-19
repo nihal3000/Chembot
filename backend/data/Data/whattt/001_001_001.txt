@@ -1,0 +1,5 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+What is the IUPAC name for the organic compound with the molecular formula C6H12O2?
+There can be several isomers with the molecular formula C6H12O2, so it is not possible to provide a specific IUPAC name without more information about the structure of the compound. If you can provide the structure or any additional details, I would be happy to help you determine the IUPAC name.

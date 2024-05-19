@@ -1,0 +1,28 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of polymerization calculations
+Calculate the enthalpy change for the polymerization of ethylene to polyethylene if it is known that the heat of combustion of ethylene is -1411 kJ/mol and the enthalpy of formation of polyethylene is -248 kJ/mol. Assume that the reaction occurs at constant pressure and temperature of 25°C.
+To calculate the enthalpy change for the polymerization of ethylene to polyethylene, we can use Hess's Law, which states that the enthalpy change for a reaction is the same whether it occurs in one step or several steps. In this case, we can consider the polymerization reaction as a two-step process:
+
+1. Combustion of ethylene to form CO2 and H2O
+2. Formation of polyethylene from CO2 and H2O
+
+The overall enthalpy change for the polymerization reaction is the sum of the enthalpy changes for these two steps.
+
+Step 1: Combustion of ethylene
+C2H4 + 3O2 -> 2CO2 + 2H2O
+ΔH1 = -1411 kJ/mol
+
+Step 2: Formation of polyethylene from CO2 and H2O
+n(CO2 + 2H2O) -> (C2H4)n + 3nO2
+ΔH2 = -248 kJ/mol
+
+Since we are interested in the enthalpy change for the formation of one mole of polyethylene, we need to determine the number of moles of ethylene (n) required to form one mole of polyethylene. The molecular formula of polyethylene is (C2H4)n, so one mole of polyethylene contains n moles of ethylene.
+
+Now, we can use Hess's Law to calculate the overall enthalpy change for the polymerization reaction:
+
+ΔH_polymerization = ΔH1 + ΔH2
+ΔH_polymerization = (-1411 kJ/mol) + (-248 kJ/mol)
+ΔH_polymerization = -1659 kJ/mol
+
+Therefore, the enthalpy change for the polymerization of ethylene to polyethylene is -1659 kJ/mol.

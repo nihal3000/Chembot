@@ -1,0 +1,19 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Isomerism in organic compounds
+"Identify the type of isomerism present in the compounds Butane and its isomer Isobutane and explain the structural differences between these two isomers."
+The type of isomerism present in the compounds Butane and its isomer Isobutane is called structural isomerism, specifically chain isomerism. Structural isomers are compounds with the same molecular formula but different arrangements of atoms.
+
+Butane (C4H10) has a straight-chain structure, where the carbon atoms are connected in a continuous line:
+
+CH3-CH2-CH2-CH3
+
+Isobutane, also known as methylpropane, has a branched structure, where one of the carbon atoms is connected to three other carbon atoms, forming a central carbon with three methyl groups:
+
+       CH3
+        |
+CH3-C-CH3
+        |
+       CH3
+
+The structural difference between these two isomers lies in the arrangement of the carbon atoms. In butane, the carbon atoms are connected in a linear chain, while in isobutane, the carbon atoms are connected in a branched structure. This difference in structure leads to different physical and chemical properties for the two isomers.

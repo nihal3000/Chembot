@@ -1,0 +1,11 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of hydrolysis calculations
+What is the enthalpy change for the hydrolysis of one mole of sucrose (C12H22O11) to glucose (C6H12O6) and fructose (C6H12O6), given the standard enthalpies of formation for sucrose, glucose, and fructose?
+To calculate the enthalpy change (ΔH) for the hydrolysis of one mole of sucrose to glucose and fructose, we will use the following equation:
+
+ΔH = Σ ΔHf(products) - Σ ΔHf(reactants)
+
+where ΔHf represents the standard enthalpy of formation for each compound.
+
+However, the standard enthalpies of formation for sucrose, glucose, and fructose are not provided in the question. Please provide these values so that we can proceed with the calculation.

@@ -1,0 +1,6 @@
+Chemist_RoleType.ASSISTANT
+Organic chemistry
+Naming organic compounds
+What is the systematic name of the following compound? 
+CH3CH2CH2OH
+The systematic name of the compound CH3CH2CH2OH is 1-propanol.

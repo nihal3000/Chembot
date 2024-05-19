@@ -1,0 +1,33 @@
+Chemist_RoleType.ASSISTANT
+Thermochemistry
+Enthalpy of desorption calculations
+Calculate the enthalpy change for the desorption of water vapor from a silica gel desiccant using the following information:
+
+Mass of silica gel desiccant = 5.0 g
+Initial temperature of silica gel desiccant and water vapor = 25.0 °C
+Final temperature after desorption of water vapor = 40.0 °C
+Specific heat capacity of silica gel = 1.16 J/g°C
+Heat absorbed by the calorimeter = -222.4 J
+
+Assume all heat absorbed by calorimeter comes solely from the desorption of water vapor.
+To calculate the enthalpy change for the desorption of water vapor from the silica gel desiccant, we first need to determine the heat absorbed by the silica gel during the process. We can do this using the formula:
+
+q = mcΔT
+
+where q is the heat absorbed, m is the mass of the silica gel, c is the specific heat capacity of the silica gel, and ΔT is the change in temperature.
+
+Given the information provided:
+
+m = 5.0 g
+c = 1.16 J/g°C
+ΔT = 40.0 °C - 25.0 °C = 15.0 °C
+
+Now we can calculate the heat absorbed by the silica gel:
+
+q = (5.0 g) × (1.16 J/g°C) × (15.0 °C) = 87.0 J
+
+Since the heat absorbed by the calorimeter is -222.4 J, and we are assuming that all the heat absorbed by the calorimeter comes solely from the desorption of water vapor, the enthalpy change for the desorption of water vapor is equal to the heat absorbed by the silica gel minus the heat absorbed by the calorimeter:
+
+ΔH = q_silica_gel - q_calorimeter = 87.0 J - (-222.4 J) = 87.0 J + 222.4 J = 309.4 J
+
+Therefore, the enthalpy change for the desorption of water vapor from the silica gel desiccant is 309.4 J.
