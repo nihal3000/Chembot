@@ -1,5 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Thermochemistry
-Enthalpy of isomerization calculations
-Calculate the enthalpy change of isomerization for the conversion of cis-but-2-ene to trans-but-2-ene, given the standard enthalpy of formation for both isomers. Asssume all other conditions remain constant.
-To calculate the enthalpy change of isomerization for the conversion of cis-but-2-ene to trans-but-2-ene, we need the standard enthalpy of formation (ΔHf°) for both isomers. Please provide the standard enthalpy of formation values for cis-but-2-ene and trans-but-2-ene.

@@ -1,5 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Organic chemistry
-Naming organic compounds
-What is the systematic name of the organic compound with the molecular formula C5H10O and a carbonyl functional group attached to the 2nd carbon atom of the chain?
-The systematic name of the organic compound with the molecular formula C5H10O and a carbonyl functional group attached to the 2nd carbon atom of the chain is pentan-2-one.

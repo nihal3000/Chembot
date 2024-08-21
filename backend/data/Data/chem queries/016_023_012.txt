@@ -1,5 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Thermochemistry
-Enthalpy of hydrolysis calculations
-What is the change in enthalpy for the hydrolysis of 5 moles of sucrose (table sugar) into glucose and fructose at a constant pressure of 1 atm and 25°C? The balanced chemical equation for the hydrolysis of sucrose is C12H22O11 + H2O → C6H12O6 + C6H12O6. Given the enthalpies of formation for sucrose, glucose, and fructose, calculate the change in enthalpy of the reaction.
-To calculate the change in enthalpy for the hydrolysis of sucrose, we need the enthalpies of formation for sucrose, glucose, and fructose. Please provide the enthalpies of formation for these compounds.

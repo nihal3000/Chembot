@@ -1,7 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Organic chemistry
-Naming organic compounds
-What is the correct IUPAC name for the following organic compound? 
-
-CH3CH2CH(CH3)CH=CH2
-The correct IUPAC name for the given organic compound (CH3CH2CH(CH3)CH=CH2) is 4-methylpent-2-ene.

@@ -1,7 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Organic chemistry
-Naming organic compounds
-What is the systematic name of the following organic compound? 
-
-CH3CH2CH2CHO 
-The systematic name of the given organic compound CH3CH2CH2CHO is butanal.

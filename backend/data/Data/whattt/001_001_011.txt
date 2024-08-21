@@ -1,7 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Organic chemistry
-Naming organic compounds
-Name the following organic compound using IUPAC nomenclature: 
-
-CH3-CH2-CH2-CH(CH3)-NH2
-The given organic compound is 3-methylpentan-2-amine.

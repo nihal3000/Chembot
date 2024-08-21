@@ -1,6 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Organic chemistry
-Naming organic compounds
-What is the systematic name of the organic compound with the molecular formula C6H12 and the following structural formula:
-    CH3CH2CH2CH2CH=CH2
-The given structural formula represents an alkene with a double bond between the 5th and 6th carbon atoms. The systematic name for this organic compound is hex-5-ene or 1-hexene.

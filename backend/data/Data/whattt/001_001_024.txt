@@ -1,7 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Organic chemistry
-Naming organic compounds
-What is the systematic name of the following organic molecule?
-
-CH3CH2CH(CH3)CH=C(CH3)2
-The systematic name of the given organic molecule is 4,4-dimethyl-3-pentene.

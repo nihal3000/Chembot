@@ -1,5 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Organic chemistry
-Naming organic compounds
-Identify the name of the following compound: CH3CH2CH2OH.
-The compound CH3CH2CH2OH is named 1-propanol or simply propanol. It is an alcohol with a three-carbon chain and a hydroxyl group (-OH) attached to the first carbon.

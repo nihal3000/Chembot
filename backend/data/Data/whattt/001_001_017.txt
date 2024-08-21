@@ -1,6 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Organic chemistry
-Naming organic compounds
-What is the name of the following organic compound?
-CH3CH2CH2CHO
-The given organic compound is called Butyraldehyde. It is also known as Butanal.

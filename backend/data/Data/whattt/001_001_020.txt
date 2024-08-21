@@ -1,5 +1,0 @@
-Chemist_RoleType.ASSISTANT
-Organic chemistry
-Naming organic compounds
-What is the correct IUPAC name of the following organic compound: CH3-CH2-CH(CH3)-CH2-Br?
-The correct IUPAC name of the given organic compound CH3-CH2-CH(CH3)-CH2-Br is 1-bromo-3-methylbutane.
